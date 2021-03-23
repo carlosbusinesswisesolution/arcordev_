@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/arcordev_/static/css/main.0ac1ac59.chunk.css",
+    "main.js": "/arcordev_/static/js/main.ed447cf9.chunk.js",
+    "main.js.map": "/arcordev_/static/js/main.ed447cf9.chunk.js.map",
+    "runtime-main.js": "/arcordev_/static/js/runtime-main.9ef69fd2.js",
+    "runtime-main.js.map": "/arcordev_/static/js/runtime-main.9ef69fd2.js.map",
+    "static/css/2.d0176e96.chunk.css": "/arcordev_/static/css/2.d0176e96.chunk.css",
+    "static/js/2.299beace.chunk.js": "/arcordev_/static/js/2.299beace.chunk.js",
+    "static/js/2.299beace.chunk.js.map": "/arcordev_/static/js/2.299beace.chunk.js.map",
+    "index.html": "/arcordev_/index.html",
+    "precache-manifest.f587a9bf4cb33a41924994aeda761015.js": "/arcordev_/precache-manifest.f587a9bf4cb33a41924994aeda761015.js",
+    "service-worker.js": "/arcordev_/service-worker.js",
+    "static/css/2.d0176e96.chunk.css.map": "/arcordev_/static/css/2.d0176e96.chunk.css.map",
+    "static/css/main.0ac1ac59.chunk.css.map": "/arcordev_/static/css/main.0ac1ac59.chunk.css.map",
+    "static/js/2.299beace.chunk.js.LICENSE.txt": "/arcordev_/static/js/2.299beace.chunk.js.LICENSE.txt",
+    "static/js/main.ed447cf9.chunk.js.LICENSE.txt": "/arcordev_/static/js/main.ed447cf9.chunk.js.LICENSE.txt",
+    "static/media/marc.jpg": "/arcordev_/static/media/marc.8880a65c.jpg",
+    "static/media/sidebar-1.jpg": "/arcordev_/static/media/sidebar-1.8e9f0a3c.jpg",
+    "static/media/sidebar-2.jpg": "/arcordev_/static/media/sidebar-2.310509c9.jpg",
+    "static/media/sidebar-3.jpg": "/arcordev_/static/media/sidebar-3.25031690.jpg",
+    "static/media/sidebar-4.jpg": "/arcordev_/static/media/sidebar-4.fc9cb053.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ef69fd2.js",
+    "static/css/2.d0176e96.chunk.css",
+    "static/js/2.299beace.chunk.js",
+    "static/css/main.0ac1ac59.chunk.css",
+    "static/js/main.ed447cf9.chunk.js"
+  ]
+}
